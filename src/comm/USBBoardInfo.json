@@ -35,6 +35,7 @@
         { "vendorID": 4617, "productID": 22337,     "boardClass": "Pixhawk",    "name": "ArduPilot ChibiOS" },
 
         { "vendorID": 12642, "productID": 0,        "boardClass": "Pixhawk",    "name": "Holybro" },
+        { "vendorID": 12642, "productID": 80,        "boardClass": "Pixhawk",    "name": "Holybro" },
 
         { "vendorID": 11694, "productID": 0,        "boardClass": "Pixhawk",    "name": "Hex/ProfiCNC" },
 
